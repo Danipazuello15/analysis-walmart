@@ -1,6 +1,7 @@
 # analysis-walmart
+Analysis-Walmart
 Análise Exploratória de Dados nas Compras da Walmart usando Python para identificar padrões de compra por gênero, cidade e tendências temporais.
-Análise Exploratória de Dados nas Compras da Walmart
+
 Descrição
 Este projeto realiza uma Análise Exploratória de Dados (EDA) para identificar padrões de compra no dataset da Walmart. Utilizando técnicas de visualização e análise estatística, o objetivo é explorar como variáveis como gênero, cidade e tendência temporal influenciam o comportamento de compra.
 
